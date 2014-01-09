@@ -2,19 +2,19 @@
   "name": "js-colorpicker",
   "description": "ColorPicker for UD based on Stefan Petre's.",
   "version": "0.0.1",
-  "homepage": "http://github.com/UsabilityDynamics/lib-js-colorpicker",
+  "homepage": "http://github.com/UsabilityDynamics/js-colorpicker",
   "author": {
     "name": "Usability Dynamics",
     "email": "info@UsabilityDynamics.com",
     "url": "http://UsabilityDynamics.com"
   },
   "bugs": {
-    "url": "http://github.com/UsabilityDynamics/lib-js-colorpicker/issues"
+    "url": "http://github.com/UsabilityDynamics/js-colorpicker/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/UsabilityDynamics/lib-js-colorpicker/blob/master/LICENSE-MIT"
+      "url": "http://github.com/UsabilityDynamics/js-colorpicker/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
