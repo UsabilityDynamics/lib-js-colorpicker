@@ -1,7 +1,7 @@
 {
   "name": "udx/lib-js-colorpicker",
   "type": "library",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ColorPicker for UD based on Stefan Petre's.",
   "require": {},
   "repositories": [
