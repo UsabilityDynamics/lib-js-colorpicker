@@ -1,8 +1,8 @@
 {
-  "name": "usabilitydynamics/lib-js-colorpicker",
-  "version": "0.0.1",
+  "name": "udx/lib-js-colorpicker",
+  "version": "0.1.0",
   "description": "ColorPicker for UD based on Stefan Petre's.",
-  "homepage": "http://github.com/UsabilityDynamics/lib-js-colorpicker",
+  "homepage": "http://github.com/udx/lib-js-colorpicker",
   "dependencies": {},
   "scripts": [
     "./scripts"
